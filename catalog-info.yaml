@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: service-processor-25681
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/service-processor-25681
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
